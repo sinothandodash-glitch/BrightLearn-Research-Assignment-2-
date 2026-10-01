@@ -9,10 +9,10 @@ with real-world examples and credible sources.
 - BrightLearn-Research-Assignment-2 – the full assignment document
 
 ## Sections Covered
-1. Foundational Concepts of Analytics
-2. Data, Measurement & Reporting
-3. Customer & Sales KPIs
-4. Marketing & Campaign Analytics
+- Foundational Concepts of Analytics
+- Data, Measurement & Reporting
+- Customer & Sales KPIs
+- Marketing & Campaign Analytics
 
 ## Sources
 This assignment references 24+ credible academic and industry sources, cited in Harvard referencing style throughout the document.

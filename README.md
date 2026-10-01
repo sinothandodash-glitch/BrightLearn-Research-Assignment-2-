@@ -6,7 +6,7 @@ The assignment covers key terminology used in business and data analytics, expla
 with real-world examples and credible sources.
 
 ## Contents
-- `Assignment_2_[Sinothando].pdf` (or .docx) – the full assignment document
+- `Assignment_2_Sinothando.pdf` – the full assignment document
 
 ## Sections Covered
 1. Foundational Concepts of Analytics
